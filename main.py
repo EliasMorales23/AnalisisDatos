@@ -56,7 +56,7 @@ def insertar_datos():
         print(f"{e}")
     cursor.close()
 
-#insertar_datos()
+#  insertar_datos()
 
 def actualizar_datos():
     cursor = connection.cursor()
